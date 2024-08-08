@@ -1,2 +1,2 @@
 # 1.0
-$ git clone
+$ git clone gh repo clone Ygor222/1.0
